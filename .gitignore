@@ -1,1 +1,16 @@
+# Ignore large MATLAB data files
+*.mat
+
+# MATLAB temporary / autosave files
+*.asv
+*.m~
+
+# MATLAB build folders
+slprj/
+sccprj/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
 
